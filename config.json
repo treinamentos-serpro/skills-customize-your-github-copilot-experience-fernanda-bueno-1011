@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "sqlite-persistence",
+      "title": "SQLite and Data Persistence",
+      "description": "Persist FastAPI CRUD data in SQLite using Python's sqlite3 module",
+      "path": "assignments/sqlite-persistence",
+      "dueDate": "2026-11-17",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
